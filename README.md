@@ -54,7 +54,7 @@ def max_marks(list1):
 
 
 ## Sample Input and Output
-![output](./img/max_marks1.jpg)  
+![image](https://github.com/Ajayreddy-2006/FindMaximum/assets/145742508/f44b5fb2-f78d-40d8-853b-07645b4e6080)
 
 ## Output:
 ## To find the maximum of marks using the list method sort.
