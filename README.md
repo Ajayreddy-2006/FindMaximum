@@ -15,7 +15,7 @@ i)	# To find the maximum of marks using the list method sort.
 Program to mark the maximum of marks using the list method sort
 Developed by: T.Ajay
 RegisterNumber: 23007325
-'''
+```
 def max_marks(marks):
     marks.sort()
     large=marks[-1]
@@ -25,11 +25,11 @@ def max_marks(marks):
 ```
 
 ii)	# To find the maximum marks using the list method max().
-''' 
+```
 Program to find the maximum marks using the list method max().
 Developed by: T.Ajay
 RegisterNumber: 23007325
-'''
+```
 def max_marks(marks):
     large=max(marks)
     return large
@@ -40,11 +40,11 @@ def max_marks(marks):
 ```
 
 iii) # To find the maximum marks without using builtin functions.
-''' 
+```
 Program to the maximum marks without using builtin functions.
 Developed by:T.Ajay
 RegisterNumber:23007325
-'''
+```
 def max_marks(list1):
     max = list1[0]
     for i in list1:
@@ -58,13 +58,13 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-# To find the maximum of marks using the list method sort.
+## To find the maximum of marks using the list method sort.
 ![image](https://github.com/Ajayreddy-2006/FindMaximum/assets/145742508/b8c127a2-5056-4d2f-b45d-d64d551a57bb)
 
-# To find the maximum marks using the list method max().
+## To find the maximum marks using the list method max().
 ![image](https://github.com/Ajayreddy-2006/FindMaximum/assets/145742508/ef19faa1-8543-47aa-8873-533992b82d15)
 
-# To find the maximum marks without using builtin functions.
+## To find the maximum marks without using builtin functions.
 ![image](https://github.com/Ajayreddy-2006/FindMaximum/assets/145742508/c829ba07-5e0f-417b-b050-f58ad2c3c7bb)
 
 ## Result:
